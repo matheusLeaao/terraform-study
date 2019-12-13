@@ -1,0 +1,8 @@
+- clone repo https://github.com/matheusLeaao/terraform-study.git
+-terraform-tutorial/1d_Linux/terraform.sh (script para instalacao completa já pronta do Terraform)
+- chmod +x terraform.sh pra garantir que o arquivo tem permissão pra ser executado
+./ terraform.sh rode para executar o sh
+rode source ~/.bashrc
+---Terraform instalado---
+comandos: terraform version (confirmar a instalação)
+terraform -h (help para verificar os comandos disponíveis)
