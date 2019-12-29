@@ -3,7 +3,7 @@ variable "name" {
 }
 
 variable "instanceAmi" {
-  default = "ami-0d2c30b55e0e66e1c"
+  default = "ami-4bf3d731"
 }
 
 variable "instanceType" {
